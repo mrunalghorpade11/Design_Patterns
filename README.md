@@ -45,3 +45,4 @@ This pattern creates a decorator class which wraps the original class and provid
 
 **UML Diagram** </br>
 ![Alt text](/static/img/Decorator_Pattern.jpg?=50x20raw=true "Decorator Pattern")
+
